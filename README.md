@@ -11,8 +11,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -31,6 +31,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 
