@@ -1,12 +1,12 @@
  
 <h2> Hola! I'm Arland </h2>
 
-- 🔭 I’m currently working on a Javascript CMS.
-- 🌱 I’m currently learning NextJs
+- 🔭 I’m currently working on an Angular-SpringBoot App.
+- 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking to collaborate with WebDesigners & GraphicDesigners
-- 🤔 In the future I would like to learn Kubernetes
+- 🤔 In the future I would like to learn Kubernetes and more about DevOps.
 - 📫 How to reach me: [arlandmvillegas@gmail.com](arlandmvillegas@gmail.com) <!--[here](miproyects.io)-->
-- ⚡ Fun fact about me: I am a fan lantin derived languages and fairly fluent in a couple
+- ⚡ Fun fact about me: I am a fan of lantin derived languages and I am fairly fluent in a couple.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
