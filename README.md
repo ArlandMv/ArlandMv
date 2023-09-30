@@ -2,17 +2,16 @@
 <h2> Hola! I'm Arland </h2>
 
 - 🔭 I’m currently working on an Angular-SpringBoot App.
-- 🌱 I’m currently learning SpringBoot.
-- 👯 I’m looking to collaborate with WebDesigners & GraphicDesigners
+- 🌱 I’m currently learning more about Unit Testing (Jasmine/JUnit&Mockito).
+- 👯 I’m looking to collaborate with WebDesigners & GraphicDesigners.
 - 🤔 In the future I would like to learn Kubernetes and more about DevOps.
 - 📫 How to reach me: [arlandmvillegas@gmail.com](arlandmvillegas@gmail.com) <!--[here](miproyects.io)-->
 - ⚡ Fun fact about me: I am a fan of lantin derived languages and I am fairly fluent in a couple.
-
+<!--  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios) -->
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
