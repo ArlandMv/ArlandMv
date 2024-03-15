@@ -1,8 +1,13 @@
-<!--make new custom profile https://youtu.be/9A8sQZDRn5o?si=bz78Ic0Q6JL-BFhv--> 
+<!--make new custom profile with 
+   https://youtu.be/mJza8XtuTNU?si=pmyVm6jj4dD8DZ4n
+   or 
+   https://youtu.be/9A8sQZDRn5o?si=bz78Ic0Q6JL-BFhv--> 
 <!--ABOUT ME - NEEDS TO BE BETTER
 * animate greeting - https://youtu.be/eHaXw8Bd_ms?si=ulEryG1x24TGK9Cz
 --> 
 <h1>Hola! My name is Arland</h1> 
+<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:arlandmvillegas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
 ## 👩‍💻 &nbsp; About Me
 - 🔭 I’m currently working on an Angular-SpringBoot App.
@@ -77,13 +82,14 @@
 
 <br />
 
-## GitHub Stats
+## 📊 Stats
+<a align="left" href="http://www.github.com/ArlandMv"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=ArlandMv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArlandMv's GitHub stats" /></a>
 
-<div width="100%" align="center">
-  <!--a align="left" href="http://www.github.com/ArlandMv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArlandMv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
+<!--p width="100%" align="center">
+  <a align="left" href="http://www.github.com/ArlandMv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArlandMv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   <a align="left" href="http://www.github.com/ArlandMv"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=ArlandMv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArlandMv's GitHub stats" /></a>
   <a align="right" href="https://github.com/ArlandMv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArlandMv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+</p-->
 
 
 <b>Top Repositories</b>
@@ -109,17 +115,6 @@
 
 <!-- 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
@@ -127,10 +122,7 @@
 
 <br/>
 
-
-
 <!--
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -141,16 +133,16 @@
 </p>
 -->
 
-## SOCIALS
-<p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:arlandmvillegas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-<p/>
-  
-<p align="right"> <a href="https://www.github.com/ArlandMv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arland-michelena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.polywork.com/Arland_Michelena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /> </picture> </a></p>
+<!--p align="right"> <a href="https://www.github.com/ArlandMv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arland-michelena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.polywork.com/Arland_Michelena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /> </picture> </a></p-->
 
-## License
-⭐️ From MIT © ArlandMv
+
+
+<!--details>
+ <summary><h3>👨‍💻 More about my Journey</h3></summary>
+   I started my coding journey as a naive computer science ...
+
+[website]: https://agencia-web.netlify.app
+
 <!--
 ADD ICONS   https://gist.github.com/rxaviers/7360908
 
