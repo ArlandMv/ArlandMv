@@ -6,16 +6,16 @@
 * animate greeting - https://youtu.be/eHaXw8Bd_ms?si=ulEryG1x24TGK9Cz
 --> 
 <h1>Hola! My name is Arland</h1> 
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:arlandmvillegas@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://linkedin.com/in/arlandmv" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:arlandmichelenav@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
 ## 👩‍💻 &nbsp; About Me
-- 🔭 I’m currently working on an Angular-SpringBoot App.
-- 🌱 I’m currently learning more about Unit Testing (Jasmine/JUnit&Mockito).
-- 👯 I’m looking to collaborate with WebDesigners & GraphicDesigners.
-- 🤔 In the future I would like to learn Kubernetes and more about DevOps.
-- 📫 How to reach me: [arlandmvillegas@gmail.com](arlandmvillegas@gmail.com) <!--[here](miproyects.io)-->
-- ⚡ Fun fact about me: I am a fan of languages like English, French, Java, Javascript and SQL.
+ 
+- ⚡ Experienced Software Developer with a passion for problem-solving and testing
+- 🌱 Proactively expanding skills beyond role boundaries. (Cloud/SalesForce/Bash).
+- 🔭 A maker enthusiastic about leveraging new technologies to elevate product quality.
+- 📫 How to reach me: [linkedin/arland](https://www.linkedin.com/in/arland-michelena/) <!--[here](miproyects.io)-->
+- 🤔 Fun fact about me: I am a fan of languages such as English, French, Italian, Java, Javascript and SQL. (Those count too) 
 
 <!--SKILLS - NEEDS TO BE BETTER--> 
 <!--a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a
