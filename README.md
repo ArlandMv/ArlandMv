@@ -12,10 +12,10 @@
 ## 👩‍💻 &nbsp; About Me
  
 - ⚡ Experienced Software Developer with a passion for problem-solving and testing
-- 🌱 Proactively expanding skills beyond role boundaries. (Cloud/SalesForce/Bash).
+- 🌱 Proactively expanding skills beyond role boundaries. (Cloud/Salesforce/Bash).
 - 🔭 A maker enthusiastic about leveraging new technologies to elevate product quality.
-- 📫 How to reach me: [linkedin/arland](https://www.linkedin.com/in/arland-michelena/) <!--[here](miproyects.io)-->
-- 🤔 Fun fact about me: I am a fan of languages such as English, French, Italian, Java, Javascript and SQL. (Those count too) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arland-michelena/) <!--[here](miproyects.io)-->
+- 🤔 Fun fact about me: I am a fan of learning any kind of languages such as English, French, Italian, Java, Javascript, Apex and SQL. (Those count too!) 
 
 <!--SKILLS - NEEDS TO BE BETTER--> 
 <!--a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a
@@ -48,7 +48,7 @@
 <img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<br /><br />
+<br /><br /><br />
 
 - 💻 (Favorite)stack: &nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
