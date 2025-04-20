@@ -105,11 +105,11 @@
 
 <br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center">
+<!--div width="100%" align="center">
   <a href="https://github.com/ArlandMv/3it-Java-Angular-FullstackWeb-PruebaTecnica" align="center">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArlandMv&repo=3it-Java-Angular-FullstackWeb-PruebaTecnica&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div-->
 
 <br /><br /><br /><br /><br /><br /><br />
 
