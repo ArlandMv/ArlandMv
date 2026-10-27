@@ -5,9 +5,12 @@
 <!--ABOUT ME - NEEDS TO BE BETTER
 * animate greeting - https://youtu.be/eHaXw8Bd_ms?si=ulEryG1x24TGK9Cz
 --> 
-<h1>Hola! My name is Arland</h1> 
-<a href="https://linkedin.com/in/arlandmv" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:arlandmichelenav@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<!--<p align="center"> <img src="./assets/arland-github-banner.png" alt="Arland Michelena Villegas — Full-Stack Developer building Applied AI Systems" width="100%" /> </p> --> 
+<h1 align="center">Arland Michelena Villegas</h1>
+<p align="center"> <strong>Full-Stack Developer building Applied AI Systems</strong> </p>
+<p align="center"> Working across agentic automation, MCP, APIs, enterprise integrations and production infrastructure. </p>
+<p align="center"> <a href="https://www.arlandstack.com/">Portfolio</a> · <a href="https://www.linkedin.com/in/arland-michelena/">LinkedIn</a> · <a href="mailto:arlandmichelenav@gmail.com">Contact</a> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Applied%20AI-7A2E84?style=flat-square" alt="Applied AI" /> <img src="https://img.shields.io/badge/AI%20Automation-7A2E84?style=flat-square" alt="AI Automation" /> <img src="https://img.shields.io/badge/MCP%20%26%20Agents-141418?style=flat-square" alt="MCP and Agents" /> <img src="https://img.shields.io/badge/Salesforce%20Agentforce-B66A43?style=flat-square" alt="Salesforce Agentforce" /> <img src="https://img.shields.io/badge/Full--Stack%20Engineering-1B1B21?style=flat-square" alt="Full-Stack Engineering" /> </p>
 
 ## 👩‍💻 &nbsp; About Me
  
@@ -15,7 +18,15 @@
 - 🌱 Proactively expanding skills beyond role boundaries. (Cloud/Salesforce/Bash).
 - 🔭 A maker enthusiastic about leveraging new technologies to elevate product quality.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arland-michelena/) <!--[here](miproyects.io)-->
-- 🤔 Fun fact about me: I am a fan of learning any kind of languages such as English, French, Italian, Java, Javascript, Apex and SQL. (Those count too!) 
+- 🤔 Fun fact about me: I am a fan of learning any kind of languages such as English, French, Italian, Java, Javascript, Apex and SQL. (Those count too!)
+
+### What I build
+
+I build software systems that connect applications, APIs, infrastructure and AI-enabled workflows.
+
+My background is in full-stack development and enterprise software, with experience across **Java / Spring Boot**, **Angular**, **TypeScript**, **Node.js**, **ecommerce platforms**, **Salesforce** and **self-hosted infrastructure**(opensource).
+
+My current focus is moving deeper into Applied AI Engineering: building systems where LLMs and agents interact with real tools, business data and production workflows.
 
 <!--SKILLS - NEEDS TO BE BETTER--> 
 <!--a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a
@@ -35,21 +46,35 @@
 
 ## 🛠 &nbsp; SKILLS, LANGUAGES AND TOOLS
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
+
 
 <br /><br /><br />
 
+- 🤖 AI Automation: &nbsp;
+  ![OpenRouter](https://img.shields.io/badge/-OpenRouter-333333?style=flat&logo=openrouter)
+  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
+  ![Langflow](https://img.shields.io/badge/-Langflow-333333?style=flat&logo=langflow)
+  ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+  ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
+  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🔗 Integrations & Agentic Systems: &nbsp;
+  ![Postiz](https://img.shields.io/badge/-Postiz-333333?style=flat&logo=postiz)
+  ![Plane](https://img.shields.io/badge/-Plane-333333?style=flat&logo=plane)
+  ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 - 💻 (Favorite)stack: &nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
